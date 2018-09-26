@@ -1,9 +1,8 @@
 .intro{color: Blue;font-style: oblique;}
-.info{font-style: italic;}
+.info{font-style: italic; font-family: serif;}
 .Description{font-variant: small-caps;font-weight: lighter;}
 .Section{color: blue; font-style: oblique;}
 #One{font-weight: bold;}
 .Recipe{color: blue;font-style: oblique;}
 .Subheading{font-variant: inherit;}
-.List{font-variant: small-caps;}
-.key
+.List{font-variant: small-caps; font-family: serif;}
